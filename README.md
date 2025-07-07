@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/falahgs-gemini-data-analysis-research-mcp-server-badge.png)](https://mseep.ai/app/falahgs-gemini-data-analysis-research-mcp-server)
+
 # Gemini Data Analysis & Research MCP Server
 
 A powerful Model Context Protocol (MCP) server that leverages Google's Gemini Flash 2 AI model for comprehensive data analysis, research paper generation, and automated email delivery. This server provides an integrated solution for analyzing datasets, generating research content, and distributing results directly to stakeholders via email.
